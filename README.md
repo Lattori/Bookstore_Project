@@ -41,7 +41,7 @@ Before you begin, ensure you have met the following requirements:
 3. **Database Configuration**:
     - Import the database schema:
       ```sh
-      mysql -u your_username -p your_password booksareus < database.sql
+      mysql -u your_username -p your_password booksareus < bookstore.sql
       ```
     - Update `database.php` with your database credentials:
       ```php
