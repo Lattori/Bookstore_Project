@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is a web-based bookstore management system that includes features for managing customers, books, comments, and user awards. It allows managers to log in and access a dashboard with various functionalities.
+This project is a web-based bookstore management system that includes features for managing customers, books, comments, and user awards. It allows managers to log in and access a dashboard with various functionalities. Small-scale project with procedural PHP with CRUD functionality.
 
 ## Features
 
